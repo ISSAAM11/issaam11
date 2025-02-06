@@ -1,8 +1,7 @@
 - 🔹 **Flutter** (Cross-platform mobile & web development)
-- 🔹 **Django** (Backend development)
 - 🔹 **React** (Frontend development)
-- 🔹 **Python & JavaScript**
-- 🔹 **SQL & NoSQL Databases**
+- 🔹 **Django** (Backend development)
+- 🔹 **Dart, JavaScript & Python**
 
 ### 🚀 Projects
 - 🛠️ **[Linguo](https://github.com/your-username/linguo)** – AI-powered legal chatbot system
