@@ -1,3 +1,5 @@
+Software engineer with **2 years of professional** experience in **Flutter and React**. Passionate about building efficient, user-friendly applications and continuously learning new technologies.
+
 - 🔹 **Flutter** (Cross-platform mobile & web development)
 - 🔹 **React** (Frontend development)
 - 🔹 **Dart, JavaScript & Python**
