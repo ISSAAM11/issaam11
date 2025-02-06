@@ -3,9 +3,9 @@
 - 🔹 **Dart, JavaScript & Python**
 
 ### 🚀 Projects
-- 📱 **[Papello App](https://github.com/your-username/papello-app)** – Flutter application for managing freelance jobs
-- 🛠️ **[Linguo](https://github.com/your-username/linguo)** – AI-powered legal chatbot system
-- 📊 **[Calculate Your Sum](https://github.com/your-username/calculate-your-sum)** – Expense-sharing calculator
+- 📱 **[Papello App](https://github.com/FullRemoteFactory/iatu-frontend)** – Flutter application for managing freelance jobs
+- 🛠️ **[Linguo](https://github.com/ISSAAM11/LinguoApp)** – AI-powered legal chatbot system
+- 📊 **[Calculate Your Sum](https://github.com/ISSAAM11/SumCalculatorApp)** – Expense-sharing calculator
 
 
 ### ⚡ Fun Fact
