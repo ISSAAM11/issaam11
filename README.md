@@ -7,9 +7,6 @@
 - 📊 **[Calculate Your Sum](https://github.com/your-username/calculate-your-sum)** – Expense-sharing calculator
 - 🌍 **[Local Tourism Promo](https://github.com/your-username/tourism-promo)** – Video & website promoting local tourism
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile) 
-[![Portfolio](https://img.shields.io/badge/Twitter-blue?logo=Portfolio)]([https://issambh.wixsite.com/portfolio/portfolio](https://issambh.wixsite.com/portfolio/portfolio))  
 
 ### ⚡ Fun Fact
 I love **bodybuilding, traveling**, and experimenting with **new tech stacks**! 💪✈️💻
