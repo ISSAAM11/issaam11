@@ -13,6 +13,7 @@
 
 ### ⚡ Fun Fact
 I love **bodybuilding, traveling**, and experimenting with **new tech stacks**! 💪✈️💻
+I am actively involved in **associative activities**, working on various community around the world 🌍.
 
 ---
 Feel free to explore my repositories and reach out if you’d like to collaborate! 🚀
