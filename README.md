@@ -1,16 +1,23 @@
-## Hi there 👋
+- 🔹 **Flutter** (Cross-platform mobile & web development)
+- 🔹 **Django** (Backend development)
+- 🔹 **React** (Frontend development)
+- 🔹 **Python & JavaScript**
+- 🔹 **SQL & NoSQL Databases**
 
-<!--
-**ISSAAM11/issaam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
+- 🛠️ **[Linguo](https://github.com/your-username/linguo)** – AI-powered legal chatbot system
+- 📊 **[Calculate Your Sum](https://github.com/your-username/calculate-your-sum)** – Expense-sharing calculator
+- 🌍 **[Local Tourism Promo](https://github.com/your-username/tourism-promo)** – Video & website promoting local tourism
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile) 
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your-profile)  
+
+### ⚡ Fun Fact
+I love **bodybuilding, traveling**, and experimenting with **new tech stacks**! 💪✈️💻
+
+---
+Feel free to explore my repositories and reach out if you’d like to collaborate! 🚀
