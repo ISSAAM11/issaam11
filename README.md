@@ -3,9 +3,9 @@
 - 🔹 **Dart, JavaScript & Python**
 
 ### 🚀 Projects
+- 📱 **[Papello App](https://github.com/your-username/papello-app)** – Flutter application for managing freelance jobs
 - 🛠️ **[Linguo](https://github.com/your-username/linguo)** – AI-powered legal chatbot system
 - 📊 **[Calculate Your Sum](https://github.com/your-username/calculate-your-sum)** – Expense-sharing calculator
-- 🌍 **[Local Tourism Promo](https://github.com/your-username/tourism-promo)** – Video & website promoting local tourism
 
 
 ### ⚡ Fun Fact
