@@ -1,6 +1,5 @@
 - 🔹 **Flutter** (Cross-platform mobile & web development)
 - 🔹 **React** (Frontend development)
-- 🔹 **Django** (Backend development)
 - 🔹 **Dart, JavaScript & Python**
 
 ### 🚀 Projects
@@ -8,12 +7,9 @@
 - 📊 **[Calculate Your Sum](https://github.com/your-username/calculate-your-sum)** – Expense-sharing calculator
 - 🌍 **[Local Tourism Promo](https://github.com/your-username/tourism-promo)** – Video & website promoting local tourism
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile) 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Twitter-blue?logo=twitter)]([https://twitter.com/your-profile](https://issambh.wixsite.com/portfolio/portfolio))  
 
 ### ⚡ Fun Fact
 I love **bodybuilding, traveling**, and experimenting with **new tech stacks**! 💪✈️💻
