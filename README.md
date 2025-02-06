@@ -9,7 +9,7 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile) 
-[![Portfolio](https://img.shields.io/badge/Twitter-blue?logo=Portfolio)]([https://twitter.com/your-profile](https://issambh.wixsite.com/portfolio/portfolio))  
+[![Portfolio](https://img.shields.io/badge/Twitter-blue?logo=Portfolio)]([https://issambh.wixsite.com/portfolio/portfolio](https://issambh.wixsite.com/portfolio/portfolio))  
 
 ### ⚡ Fun Fact
 I love **bodybuilding, traveling**, and experimenting with **new tech stacks**! 💪✈️💻
