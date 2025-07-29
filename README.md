@@ -5,8 +5,7 @@ Software engineer with **2 years of professional** experience in **Flutter and R
 - 🔹 **Dart, JavaScript & Python**
 
 ### 🚀 Projects
+
 - 📱 **[Papello App](https://github.com/FullRemoteFactory/iatu-frontend)** – Flutter application for managing freelance jobs
-- 🛠️ **[Linguo](https://github.com/ISSAAM11/LinguoApp)** – AI-powered legal chatbot system
+- 🛠️ **[Linguo](https://github.com/ISSAAM11/LinguoApp)** –- AI-powered legal chatbot system
 - 📊 **[Calculate Your Sum](https://github.com/ISSAAM11/SumCalculatorApp)** – Expense-sharing calculator
-
-
